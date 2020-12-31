@@ -1,0 +1,26 @@
+C:\Users\Antoine\AppData\Local\Temporary Projects\Clicktest\bin\Debug\Clicktest.exe
+C:\Users\Antoine\AppData\Local\Temporary Projects\Clicktest\bin\Debug\Clicktest.pdb
+C:\Users\Antoine\AppData\Local\Temporary Projects\Clicktest\bin\Debug\Clicktest.xml
+C:\Users\Antoine\AppData\Local\Temporary Projects\Clicktest\obj\x86\Debug\Clicktest.Form1.resources
+C:\Users\Antoine\AppData\Local\Temporary Projects\Clicktest\obj\x86\Debug\Clicktest.Resources.resources
+C:\Users\Antoine\AppData\Local\Temporary Projects\Clicktest\obj\x86\Debug\Clicktest.vbproj.GenerateResource.Cache
+C:\Users\Antoine\AppData\Local\Temporary Projects\Clicktest\obj\x86\Debug\Clicktest.exe
+C:\Users\Antoine\AppData\Local\Temporary Projects\Clicktest\obj\x86\Debug\Clicktest.xml
+C:\Users\Antoine\AppData\Local\Temporary Projects\Clicktest\obj\x86\Debug\Clicktest.pdb
+C:\Users\Antoine\Desktop\POWER ON\Dev\Microsoft VB\App dev\Clicktest\Clicktest\obj\x86\Debug\Clicktest.exe
+C:\Users\Antoine\Desktop\POWER ON\Dev\Microsoft VB\App dev\Clicktest\Clicktest\obj\x86\Debug\Clicktest.xml
+C:\Users\Antoine\Desktop\POWER ON\Dev\Microsoft VB\App dev\Clicktest\Clicktest\obj\x86\Debug\Clicktest.pdb
+C:\Users\Antoine\Desktop\POWER ON\Dev\Microsoft VB\App dev\Clicktest\Clicktest\bin\Debug\Clicktest.exe
+C:\Users\Antoine\Desktop\POWER ON\Dev\Microsoft VB\App dev\Clicktest\Clicktest\bin\Debug\Clicktest.pdb
+C:\Users\Antoine\Desktop\POWER ON\Dev\Microsoft VB\App dev\Clicktest\Clicktest\bin\Debug\Clicktest.xml
+C:\Users\Antoine\Desktop\POWER ON\Dev\Microsoft VB\App dev\Clicktest\Clicktest\obj\x86\Debug\Clicktest.Form1.resources
+C:\Users\Antoine\Desktop\POWER ON\Dev\Microsoft VB\App dev\Clicktest\Clicktest\obj\x86\Debug\Clicktest.Resources.resources
+C:\Users\Antoine\Desktop\POWER ON\Dev\Microsoft VB\App dev\Clicktest\Clicktest\obj\x86\Debug\Clicktest.vbproj.GenerateResource.Cache
+C:\Users\Antoine\Desktop\POWER ON\Dev\Microsoft VB\App dev\Clicktest\Clicktest\obj\x86\Debug\Clicktest.LoginForm1.resources
+C:\Users\Antoine\Desktop\POWER ON\Dev\Microsoft VB\App dev\Clicktest\Clicktest\bin\Debug\aa\Clicktest.resources.dll
+C:\Users\Antoine\Desktop\POWER ON\Dev\Microsoft VB\App dev\Clicktest\Clicktest\obj\x86\Debug\Clicktest.LoginForm1.aa.resources
+C:\Users\Antoine\Desktop\POWER ON\Dev\Microsoft VB\App dev\Clicktest\Clicktest\obj\x86\Debug\aa\Clicktest.resources.dll
+C:\Users\Antoine\Desktop\POWER ON\Dev\Microsoft VB\App dev\Clicktest\Clicktest\bin\Debug\Clicktest.exe.config
+C:\Users\Antoine\Desktop\POWER ON\Dev\Microsoft VB\App dev\Clicktest\Clicktest\bin\Debug\kea\Clicktest.resources.dll
+C:\Users\Antoine\Desktop\POWER ON\Dev\Microsoft VB\App dev\Clicktest\Clicktest\obj\x86\Debug\Clicktest.LoginForm1.kea.resources
+C:\Users\Antoine\Desktop\POWER ON\Dev\Microsoft VB\App dev\Clicktest\Clicktest\obj\x86\Debug\kea\Clicktest.resources.dll
