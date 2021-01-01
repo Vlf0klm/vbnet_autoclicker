@@ -5,12 +5,6 @@ Voici auto-clicker fait en Visual Basic (VB.NET)
 ### ATTENTION :
 **CE PROJET A ÉTÉ ABANDONNÉ DEPUIS BIENTÔT 4 ANS. (A PART QUELQUES PATCHS POUR FIX LES GROS BUGS...) JE NE GARANTIE PAS LE FONCTIONNEMENT DE CE LOGICIEL NI DES DOMMAGES QUI POURRAIT ÊTRE CAUSES.**
 **De plus, le code n'est pas optimisé...**
-# INSTALLATION:
-- Installation manuelle:
-    - télécharger le projet dans son entièreté
-    - le générer avec visual studio  2019 ou inférieur et c'est tout xD
-- Installation normale:
-    - [autoclicker vbnet releases](https://github.com/)
 
 ```diff
 - Ce projet marche sous le framework 4.0.0.0.
